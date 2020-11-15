@@ -1,1 +1,1 @@
-# node_share
+## api文件夹下为基础的api入门介绍，只有一小部分详细的可以看[文档](https://nodejs.org/)
