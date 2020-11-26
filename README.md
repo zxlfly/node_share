@@ -16,7 +16,7 @@ sequelize-->orm
 ## mongodb
 建议安装最新的稳定版本，网上有很详细的教程  
 helloword.js基础使用实例
-example为一个简单的示例
+example为一个简单的示例  
 EventEmitter.js-->发布订阅，在上面的示例中使用到了
 
 ## mongoose
