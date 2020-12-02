@@ -34,6 +34,17 @@ sequelize=>code model 模型映射=>db(持久化服务)=>先在code里建立模�
 - 动态编程
   - 根据文件夹自动加载模块
   - 自动生成路由（注册通配路由）
+## 鉴权
+cookie-session  
+token  
+jwt  
+
+## redis
+
+## egg
+前置只是需要了解egg的用法  
+实现的技术特点就是科⾥化
+
 
 ## I/O
 - I/O的阻塞与非阻塞  
