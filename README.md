@@ -74,6 +74,7 @@ jwt
 - 密文固定长度md5 sha1 sha256
 
 ## redis
+redis是一个key-value存储系统。和Memcached类似，它支持存储的value类型相对更多，包括string(字符串)、list(链表)、set(集合)、zset(sorted set --有序集合)和hash（哈希类型）。
 
 ## egg
 前置知识需要了解egg的用法  
