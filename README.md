@@ -259,5 +259,5 @@ console.log( bob.decrypt( alice.encrypt("hi bob! " ) ).toString( "utf8") )
 
 ```
 ### 爬虫
-puppetee（无头浏览器）  
-crawler
+puppeteer（无头浏览器）  
+[crawler](https://github.com/bda-research/node-crawler) (爬虫)
